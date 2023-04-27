@@ -1667,4 +1667,8 @@ video {
   .md\:pt-44 {
     padding-top: 11rem;
   }
+
+  .md\:text-left {
+    text-align: left;
+  }
 }
