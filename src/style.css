@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-bgc-image {
+    background-image: url(../images/about-background-footer.png);
+    /* background-size: cover; */
+}
+.about-services-background{
+    background-image: url(../images/about-services.jpg);
+}
